@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/badujgenti.github.io/static/css/main.75f11feb.css",
+    "main.js": "/badujgenti.github.io/static/js/main.36aa1bd4.js",
+    "static/media/illustration-thank-you.svg": "/badujgenti.github.io/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/badujgenti.github.io/index.html",
+    "static/media/icon-star.svg": "/badujgenti.github.io/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.75f11feb.css.map": "/badujgenti.github.io/static/css/main.75f11feb.css.map",
+    "main.36aa1bd4.js.map": "/badujgenti.github.io/static/js/main.36aa1bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f11feb.css",
+    "static/js/main.36aa1bd4.js"
+  ]
+}
