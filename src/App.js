@@ -2,17 +2,23 @@
 import { useState } from 'react';
 import styled from 'styled-components';
 import Rating from './components/Rating-component';
+import Thank from './components/Thank-you';
 
 
 function App() {
   const [submit, setSubmit] = useState(false);
   const [rating, setRating] = useState()
+  
 
   return (
 
     
     <Background >
+      {!submit ?
      <Rating rating={rating} setRating={setRating} setSubmit={setSubmit}/>
+     :
+     <Thank rating={rating}/>
+      }
     </Background>
   );
 }
